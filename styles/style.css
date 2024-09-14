@@ -5,7 +5,7 @@ body {
 }
 
 .header {
-  margin: 80px 24px 90px;
+  margin: 93px 24px 94px;
   height: 105px;
   width: 1052px;
   font-family: Raleway, sans-serif;
@@ -112,10 +112,6 @@ body {
   height: 100%;
 }
 
-.overlay_cover {
-  width: 1078.6px;
-}
-
 .cover__title {
   display: flex;
   flex-wrap: wrap;
@@ -123,7 +119,7 @@ body {
   text-transform: uppercase;
   font-weight: bold;
   color: rgb(255, 255, 255);
-  padding: 163px 29px 135px 50px;
+  padding: 163.5px 29px 135px 50px;
   font-size: 100px;
   letter-spacing: 30px;
   z-index: 2;
@@ -298,7 +294,7 @@ body {
 .about__column {
   padding: 35px 27px 320px 47px;
   width: 334px;
-  align-content: baseline;
+  align-content: first baseline;
 }
 
 .about__logo {
