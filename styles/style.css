@@ -298,7 +298,7 @@ body {
 .about__column {
   padding: 35px 27px 320px 47px;
   width: 334px;
-  align-content: first baseline;
+  align-content: baseline;
 }
 
 .about__logo {
